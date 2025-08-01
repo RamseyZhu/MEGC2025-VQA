@@ -1,4 +1,4 @@
-# FGSL: Frequency-Gated Spatiotemporal Learning for Micro-Expression Spotting-Recognition (ACM MM MEGC2025)
+# HierMEQA: A Relationship-Aware Hierarchical Framework for Consistent Micro-Expression Visual Question Answering (ACM MM MEGC2025)
 
 
 ##   :jack_o_lantern: Abstract
